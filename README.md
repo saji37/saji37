@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MERN STACK Developer<br>💬 I'm passionate in codding and web development<br>🌱 Learning | codding | Debugging<br>⚡ Exploring new Teck
+🔭 MERN STACK Developer<br>💬 I'm passionate in codding and web development<br>🌱 Learning | codding | Debugging<br>⚡ Exploring new Tech
 
 
 ## 🌐 Socials:
