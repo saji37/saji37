@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 MERN STACK Developer<br>💬 I'm passionate in codding and web development<br>🌱 Learning | codding | Debugging<br>⚡ Exploring new Tech
 
+![](https://komarev.com/ghpvc/?username=saji37)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajith_thomas_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajith-thomas-542125220) 
@@ -13,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saji37&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saji37&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
